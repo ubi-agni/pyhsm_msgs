@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pyhsm_msgs</name>
+  <version>0.1.0</version>
+  <description>
+    Messages that are used by the introspection interface of pyhsm.
+  </description>
+
+  <maintainer email="rhaschke@techfak.uni-bielefeld.de">Robert Haschke</maintainer>
+  <license>BSD</license>
+
+  <author>Jonathan Bohren</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>std_msgs</depend>
+
+  <build_depend>message_generation</build_depend>
+
+  <exec_depend>message_runtime</exec_depend>
+  <build_export_depend>message_runtime</build_export_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+  </export>
+</package>
