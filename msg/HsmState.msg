@@ -1,8 +1,5 @@
-# local name
-string name
-
-# all child states
-HsmState[] children
+# full path to this state (w/o prefix)
+string path
 
 # initial state (child)
 string initial

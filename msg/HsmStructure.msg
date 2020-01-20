@@ -1,3 +1,4 @@
-# path prefix
+# path prefix (prepended to all state names)
 string prefix
-HsmState root
+
+HsmState[] states
