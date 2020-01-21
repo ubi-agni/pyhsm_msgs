@@ -5,9 +5,9 @@ string[] event
 string target
 
 # condition
-string[] condition 
+string[] condition
 
 # actions
-string[] before 
-string[] action 
-string[] after 
+string[] before
+string[] action
+string[] after
