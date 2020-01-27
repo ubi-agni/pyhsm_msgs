@@ -8,7 +8,7 @@ add_message_files(FILES
   HsmStructure.msg
   HsmState.msg
   HsmTransition.msg
-  HsmStatus.msg
+  HsmCurrentState.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
